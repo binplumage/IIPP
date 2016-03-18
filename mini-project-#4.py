@@ -1,7 +1,7 @@
 """
 This module is implementation of classic arcade game Pong.
 Player A (left) use the key "w"/"s" to control the paddle up/down.
-Player B (right) use the key "↑"/"↓" to control the paddle up/down.
+Player B (right) use the key "up"/"down" to control the paddle up/down.
 The ball  will continue speed up if the paddle hit the ball.
 """
 
